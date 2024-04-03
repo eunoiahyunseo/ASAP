@@ -45,3 +45,19 @@ The explosion occurs at a specific point in the video, which is not provided. <-
  appears to be a busy city street. The reasons behind the explosion are not clear from the video, but it could be due to a gas leak, a bomb, or some other cause.
  The explosion event unfolds quickly, with the car being destroyed in a matter of seconds. The immediate consequences of the explosion include
  the destruction of the car and the damage to the surrounding area. The video does not provide any further information about the explosion or its aftermath.
+
+
+
+
+ 
+To the Video Multimodal LLM,
+
+You are presented with a video that incorporates Panoptic Segmentation along with the original footage, where an anomaly has been detected. This video encompasses [specific situation or context description]. Please provide a detailed description of the observed hazardous situation in the video, adhering to the following 6W principles:
+
+Who: Identify the individuals appearing in the footage. What are their roles and actions within the video?
+What: Specifically, what constitutes the anomaly? What actions or events led to the hazardous situation?
+When: At what point did the anomaly occur, and which part of the video does this correspond to?
+Where: Specifically, where did the hazardous situation take place, and how did the environment contribute to it?
+Why: What are the reasons behind the occurrence of this hazardous situation? What factors contributed to it?
+How: How did the anomaly unfold, and what were the subsequent outcomes observed in the video?
+Please analyze the video and provide answers to the above questions based on your observations.
