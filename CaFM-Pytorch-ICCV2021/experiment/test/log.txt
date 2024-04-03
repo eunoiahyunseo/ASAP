@@ -1,0 +1,42 @@
+EDSR(
+  (sub_mean): MeanShift(3, 3, kernel_size=(1, 1), stride=(1, 1))
+  (add_mean): MeanShift(3, 3, kernel_size=(1, 1), stride=(1, 1))
+  (head): Sequential(
+    (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+  )
+  (body): ModuleList(
+    (0-15): 16 x ResBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (cafms1): ModuleList(
+        (0-8): 9 x ContentAwareFM(
+          (transformer): Conv2d(64, 64, kernel_size=(1, 1), stride=(1, 1), groups=64)
+        )
+      )
+      (cafms2): ModuleList(
+        (0-8): 9 x ContentAwareFM(
+          (transformer): Conv2d(64, 64, kernel_size=(1, 1), stride=(1, 1), groups=64)
+        )
+      )
+      (act): ReLU(inplace=True)
+    )
+    (16): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+  )
+  (tail): Sequential(
+    (0): Upsampler(
+      (0): Conv2d(64, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (1): PixelShuffle(upscale_factor=2)
+      (2): Conv2d(64, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (3): PixelShuffle(upscale_factor=2)
+    )
+    (1): Conv2d(64, 3, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+  )
+)
+
+Evaluation:
+[DIV2K x4]	PSNR: 24.539 (Best: 24.539 @epoch 1)
+Forward: 41.38s
+
+Saving...
+Total: 41.58s
+

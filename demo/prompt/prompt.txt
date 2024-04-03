@@ -1,0 +1,47 @@
+
+다음은 Panoptic Segmentation을 적용한 비디오와 원본 비디오에서 이상 상황이 감지된 부분을 결합한 영상입니다.
+ 이 비디오는 [비디오의 특정 상황 또는 컨텍스트 설명]을 포함하고 있습니다. 다음의 6하 원칙에 따라 비디오에서 관찰된 위험 상황을 서술해주세요:
+
+1. 누가(Who) 관련하여: 영상에 등장하는 인물들은 누구이며, 이들의 역할과 행동은 무엇인가요?
+2. 무엇을(What) 관련하여: 이상 상황은 구체적으로 무엇이며, 어떤 행동 또는 사건이 위험을 야기했나요?
+3. 언제(When) 관련하여: 이상 상황이 발생한 시점은 언제이며, 이는 비디오의 어느 부분에 해당하나요?
+4. 어디서(Where) 관련하여: 위험 상황이 발생한 장소는 구체적으로 어디이며, 환경은 어떻게 기여했나요?
+5. 왜(Why) 관련하여: 이러한 위험 상황이 발생한 이유는 무엇이며, 어떤 요인이 기여했나요?
+6. 어떻게(How) 관련하여: 이상 상황이 어떻게 진행되었으며, 이를 통해 어떤 결과가 나타났나요?
+
+비디오 분석 후 위의 질문에 대한 답변을 제공해주세요.
+
+
+To the Video Multimodal LLM,
+
+You are presented with a video that integrates panoptic segmentation with the original footage, specifically focusing on the detection of an anomaly identified as an explosion.
+ Please analyze the video content based on the following 6W principles and provide a detailed description of the observed hazardous situation:
+
+1. Who: Identify the individuals present in the footage during the explosion. What roles do they play, and what actions do they undertake in response to the event?
+
+2. What: Describe the nature of the anomaly - the explosion. What specific actions or events led to this hazardous situation?
+
+3. When: Determine the timing of the explosion within the video. At what point during the footage does the explosion occur, and how does the timing influence the context of the event?
+
+4. Where: Specify the location of the explosion. Where does it take place within the scene, and how does the environment contribute to the event or affect its outcomes?
+
+5. Why: Explore the possible reasons behind the explosion. What factors or conditions might have contributed to the occurrence of this hazardous situation?
+
+6. How: Elaborate on the progression of the explosion event. How does it unfold, and what are the immediate and subsequent consequences observed in the video?
+
+Please provide a comprehensive analysis of the explosion event depicted in the video, considering the context and the specific details available in the footage.
+
+
+
+
+The video begins with a scene of a road, followed by a car driving by. Suddenly, an explosion occurs,and the car is engulfed in flames. 
+
+The explosion is a significant event that disrupts the peaceful driving scene.
+
+The video does not provide any information about the individuals present in the footage during the explosion.
+However, the video does show the immediate aftermath of the explosion, with the car being destroyed and the surrounding area being damaged.
+The explosion occurs at a specific point in the video, which is not provided. <-- 비디오 위치를 제공할것임 아직 demo여서 미숙함
+ The location of the explosion is on the road, and the environment
+ appears to be a busy city street. The reasons behind the explosion are not clear from the video, but it could be due to a gas leak, a bomb, or some other cause.
+ The explosion event unfolds quickly, with the car being destroyed in a matter of seconds. The immediate consequences of the explosion include
+ the destruction of the car and the damage to the surrounding area. The video does not provide any further information about the explosion or its aftermath.
