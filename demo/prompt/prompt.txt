@@ -61,3 +61,38 @@ Where: Specifically, where did the hazardous situation take place, and how did t
 Why: What are the reasons behind the occurrence of this hazardous situation? What factors contributed to it?
 How: How did the anomaly unfold, and what were the subsequent outcomes observed in the video?
 Please analyze the video and provide answers to the above questions based on your observations.
+
+
+This video is the result frames of anomaly detection.
+The detected Anomaly is "Shooting".
+Please provide a detailed description of the observed hazardous situation in the video, adhering to the following 6W principles:
+
+Who: Identify the individuals appearing in the footage. What are their roles and actions within the video?
+What: Specifically, what constitutes the anomaly? What actions or events led to the hazardous situation?
+When: At what point did the anomaly occur, and which part of the video does this correspond to?
+Where: Specifically, where did the hazardous situation take place, and how did the environment contribute to it?
+Why: What are the reasons behind the occurrence of this hazardous situation? What factors contributed to it?
+How: How did the anomaly unfold, and what were the subsequent outcomes observed in the video?
+Please analyze the video and provide answers to the above questions based on your observations.
+
+https://ca1ff4a63877aa7c3f.gradio.live/
+
+
+
+This video is the result of anomaly detection.
+The detected Anomaly is "Shooting".
+Please provide a detailed description of the observed hazardous situation in the video.
+Write as if you are reporting real-time situation.
+
+Suppose you are monitoring the CCTV.
+You check this anomaly detection result video captured on CCTV.
+The detected Anomaly is "Shooting".
+Write a detailed description of the observed hazardous situation. Write as you are reporting in the real-time situation.
+
+
+Suppose you are monitoring the CCTV and check this "Shooting" situation captured on CCTV.
+Write a detailed description of the observed hazardous situation. Write as you are reporting in the real-time situation.
+
+
+
+https://3f8ea2ab9b13c2c18f.gradio.live/

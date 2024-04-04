@@ -15,6 +15,14 @@
 * [VTimeLLM](https://github.com/huangb23/VTimeLLM)
     * 멀티모달 모델(Video-Multimodal). 비디오를 입력으로 받아 상황을 추론하는 역할을 담당합니다.
 
+---
+## 전체적인 모델 아키텍처
+![모델 아키텍처](./image/Architecture.png)
+
+## 시스템 프로세스 결과 - 1 (Origin -> Low-light Enhancement -> Video Super Resolution -> Panoptic Segmentation -> Anomaly Detection)
+![프로세스 결과1](./image/Result1.png) 
+---
+
 ### 인공지능팀
 * 일병 윤상우 (팀장)
 * 상병 이현서
