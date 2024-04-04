@@ -53,3 +53,8 @@
 * Pu, Yujiang, Xiaoyu Wu, and Shengjin Wang. "Learning prompt-enhanced context features for weakly-supervised video anomaly detection." *arXiv preprint arXiv:2306.14451* (2023).
 * Li, Wenhao, et al. "FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Look-Up Table." *Proceedings of the 31st ACM International Conference on Multimedia*. 2023.
 * Gentry, Craig, et al. "Yoso: You only speak once: Secure mpc with stateless ephemeral roles." *Annual International Cryptology Conference*. Cham: Springer International Publishing, 2021.
+* Polino, Antonio, Razvan Pascanu, and Dan Alistarh. "Model compression via distillation and quantization." arXiv preprint arXiv:1802.05668 (2018).
+* Hadidi, Ramyad, et al. "Characterizing the deployment of deep neural networks on commercial edge devices." 2019 IEEE International Symposium on Workload Characterization (IISWC). IEEE, 2019.
+* Hu, Yushi, et al. "Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models." arXiv preprint arXiv:2312.03052 (2023).
+* Bor, Martin C., John Vidler, and Utz Roedig. "LoRa for the Internet of Things." Ewsn. Vol. 16. 2016.
+* Li, Gen, et al. "Towards high-quality and efficient video super-resolution via spatial-temporal data overfitting." 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2023.
