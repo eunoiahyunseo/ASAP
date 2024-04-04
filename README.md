@@ -1,7 +1,7 @@
 # ASAP(AI Situation Awareness and Propagation) 육군 창업 경진대회
 
 ---
-
+## 모델 선정 기준
 모델의 선정 기준은. Real-time이 가능하며 Zero-shot이 가능한 모델로 선정했습니다.
 
 * [CaFM-Pytorch-ICCV2021](https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021) 
@@ -17,12 +17,14 @@
 
 ---
 ## 전체적인 모델 아키텍처
-![모델 아키텍처](./image/Architecture.png)
+
+![모델 아키텍처](./image/Architecture.PNG)
 
 ## 시스템 프로세스 결과 - 1 (Origin -> Low-light Enhancement -> Video Super Resolution -> Panoptic Segmentation -> Anomaly Detection)
-![프로세스 결과1](./image/Result1.png) 
----
 
+![프로세스 결과1](./image/Result1.PNG) 
+
+---
 ### 인공지능팀
 * 일병 윤상우 (팀장)
 * 상병 이현서
