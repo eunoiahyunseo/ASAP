@@ -16,14 +16,25 @@
     * 멀티모달 모델(Video-Multimodal). 비디오를 입력으로 받아 상황을 추론하는 역할을 담당합니다.
 
 ---
-## 전체적인 모델 아키텍처
+## 전체적인 모델 아처텍처
 
 ![모델 아키텍처](./image/Architecture.PNG)
 
-## 시스템 프로세스 결과 - 1 (Origin -> Low-light Enhancement -> Video Super Resolution -> Panoptic Segmentation -> Anomaly Detection)
+## 시스템 프로세스
+
+* Origin Video
+* Low-light Enhancement
+* Video Super Resolution
+* Panoptic Segmentation
+* Anomaly Detection
 
 ![프로세스 결과1](./image/Result1.PNG) 
 
+## 멀티모달 결과
+
+* Large Multi-modal Model
+
+![멀티모달 결과](./image/Result2.PNG)
 ---
 ### 인공지능팀
 * 일병 윤상우 (팀장)
