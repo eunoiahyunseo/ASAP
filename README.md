@@ -35,6 +35,7 @@
 * Large Multi-modal Model
 
 ![멀티모달 결과](./image/Result2.PNG)
+
 ---
 ### 인공지능팀
 * 일병 윤상우 (팀장)
@@ -44,3 +45,11 @@
 ### 비지니스 팀
 * 일병 박상욱
 * 일병 심준용
+
+---
+### 참고자료
+* Liu, Jiaming, et al. "Overfitting the data: Compact neural video delivery via content-aware feature modulation." *Proceedings of the IEEE/CVF International Conference on Computer Vision*. 2021.
+* Huang, Bin, et al. "Vtimellm: Empower llm to grasp video moments." *arXiv preprint arXiv:2311.18445* 2 (2023).
+* Pu, Yujiang, Xiaoyu Wu, and Shengjin Wang. "Learning prompt-enhanced context features for weakly-supervised video anomaly detection." *arXiv preprint arXiv:2306.14451* (2023).
+* Li, Wenhao, et al. "FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Look-Up Table." *Proceedings of the 31st ACM International Conference on Multimedia*. 2023.
+* Gentry, Craig, et al. "Yoso: You only speak once: Secure mpc with stateless ephemeral roles." *Annual International Cryptology Conference*. Cham: Springer International Publishing, 2021.
