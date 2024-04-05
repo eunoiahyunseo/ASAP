@@ -1,6 +1,7 @@
-# ASAP(AI Situation Awareness and Propagation) 육군 창업 경진대회
-> ASAP은 육군 지능정보 기술단 SW개발병 4명으로 이루어진 팀입니다.
-> 저희는 최신 AI기술, 혁신적인 시스템 아키텍처, 비지니스 모델, 목적성을 가지고 있습니다.
+## 육군 창업 경진대회
+* 실시간 AI 상황 인지 시스템 (ASAP: real-time AI Situation Awareness & Propagation system)을 제안합니다.
+* ASAP은 육군 지능정보 기술단 SW개발병 4명으로 이루어진 팀입니다.
+* ASAP은 최신 AI기술, 혁신적인 시스템 아키텍처, 비지니스 모델, 목적성을 가지고 있습니다.
 
 ---
 ## 모델 선정 기준
@@ -58,4 +59,4 @@
 * Li, Gen, et al. "Towards high-quality and efficient video super-resolution via spatial-temporal data overfitting." 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2023.
 
 ## Best Regards
-<pre>저희의 ASAP이 사회, 국방등 국익증진과 국가안보에 기여할 수 있기를 기대합니다. 나아가 범 세계적인 영향을 끼칠 수 있기를 고대합니다.</pre>
+<pre>저희의 ASAP이 사회, 국방등 국익증진과 국가안보에 기여할 수 있기를 기대합니다.<br/> 나아가 범 세계적인 영향을 끼칠 수 있기를 고대합니다.</pre>
