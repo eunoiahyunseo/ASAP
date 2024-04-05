@@ -17,7 +17,7 @@
 * [VTimeLLM](https://github.com/huangb23/VTimeLLM)
     * 멀티모달 모델(Video-Multimodal). 비디오를 입력으로 받아 상황을 추론하는 역할을 담당합니다.
 
-## 전체적인 모델 아처텍처
+## 시스템 아처텍처
 
 ![모델 아키텍처](./image/Architecture.PNG)
 
