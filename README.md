@@ -15,7 +15,6 @@
 * [VTimeLLM](https://github.com/huangb23/VTimeLLM)
     * 멀티모달 모델(Video-Multimodal). 비디오를 입력으로 받아 상황을 추론하는 역할을 담당합니다.
 
----
 ## 전체적인 모델 아처텍처
 
 ![모델 아키텍처](./image/Architecture.PNG)
@@ -34,19 +33,16 @@
 
 * Large Multi-modal Model
 
-![멀티모달 결과](./image/Result2.jpg)
+![멀티모달 결과](./image/Result02.jpg)
 
----
 ### 인공지능팀
 * 일병 윤상우 (팀장)
 * 상병 이현서
-
 
 ### 비지니스 팀
 * 일병 박상욱
 * 일병 심준용
 
----
 ### 참고자료
 * Liu, Jiaming, et al. "Overfitting the data: Compact neural video delivery via content-aware feature modulation." *Proceedings of the IEEE/CVF International Conference on Computer Vision*. 2021.
 * Huang, Bin, et al. "Vtimellm: Empower llm to grasp video moments." *arXiv preprint arXiv:2311.18445* 2 (2023).
