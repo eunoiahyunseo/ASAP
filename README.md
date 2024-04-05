@@ -1,8 +1,8 @@
 ## 육군 창업 경진대회
 
-* 실시간 AI 상황 인지 시스템 (<pre>ASAP</pre>: real-time AI Situation Awareness & Propagation system)을 제안합니다.
-* <pre>ASAP</pre>은 육군 지능정보 기술단 SW개발병 4명으로 이루어진 팀입니다.
-* <pre>ASAP</pre>은 최신 AI기술, 혁신적인 시스템 아키텍처, 비지니스 모델, 목적성을 가지고 있습니다.
+* 실시간 AI 상황 인지 시스템 (<code>ASAP</code>: real-time AI Situation Awareness & Propagation system)을 제안합니다.
+* <code>ASAP</code>은 육군 지능정보 기술단 SW개발병 4명으로 이루어진 팀입니다.
+* <code>ASAP</code>은 최신 AI기술, 혁신적인 시스템 아키텍처, 비지니스 모델, 목적성을 가지고 있습니다.
 
 ## 모델 선정
 
