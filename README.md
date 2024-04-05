@@ -34,7 +34,7 @@
 
 * Large Multi-modal Model
 
-![멀티모달 결과](./image/Result2.PNG)
+![멀티모달 결과](./image/Result2.jpg)
 
 ---
 ### 인공지능팀
