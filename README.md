@@ -61,4 +61,4 @@
 * Li, Gen, et al. "Towards high-quality and efficient video super-resolution via spatial-temporal data overfitting." 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2023.
 
 ## 끝맺으며
-<pre>저희의 <code>ASAP</code>code>이 사회, 국방등 국익증진과 국가안보에 기여할 수 있기를 기대합니다.<br/>나아가 범 세계적인 영향을 끼칠 수 있기를 고대합니다.</pre>
+<pre>저희의 <code>ASAP</code>이 사회, 국방등 국익증진과 국가안보에 기여할 수 있기를 기대합니다.<br/>나아가 범 세계적인 영향을 끼칠 수 있기를 고대합니다.</pre>
