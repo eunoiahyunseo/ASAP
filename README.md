@@ -1,4 +1,6 @@
 # ASAP(AI Situation Awareness and Propagation) 육군 창업 경진대회
+> ASAP은 육군 지능정보 기술단 SW개발병 4명으로 이루어진 팀입니다.
+> 저희는 최신 AI기술, 혁신적인 시스템 아키텍처, 비지니스 모델, 목적성을 가지고 있습니다.
 
 ---
 ## 모델 선정 기준
@@ -36,12 +38,12 @@
 ![멀티모달 결과](./image/Result02.jpg)
 
 ### 인공지능팀
-* 일병 윤상우 (팀장)
-* 상병 이현서
+* (육)SW개발병 일병 윤상우 (팀장)
+* (육)SW개발병 일병 이현서
 
 ### 비지니스 팀
-* 일병 박상욱
-* 일병 심준용
+* (육)SW개발병 일병 박상욱
+* (육)SW개발병 일병 심준용
 
 ### 참고자료
 * Liu, Jiaming, et al. "Overfitting the data: Compact neural video delivery via content-aware feature modulation." *Proceedings of the IEEE/CVF International Conference on Computer Vision*. 2021.
@@ -54,3 +56,6 @@
 * Hu, Yushi, et al. "Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models." arXiv preprint arXiv:2312.03052 (2023).
 * Bor, Martin C., John Vidler, and Utz Roedig. "LoRa for the Internet of Things." Ewsn. Vol. 16. 2016.
 * Li, Gen, et al. "Towards high-quality and efficient video super-resolution via spatial-temporal data overfitting." 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2023.
+
+## Best Regards
+<pre>저희의 ASAP이 사회, 국방등 국익증진과 국가안보에 기여할 수 있기를 기대합니다. 나아가 범 세계적인 영향을 끼칠 수 있기를 고대합니다.</pre>
