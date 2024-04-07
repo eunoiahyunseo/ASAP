@@ -39,11 +39,11 @@
 
 ## 모델 세부 구조도
 
-![디테일 구조1]('./image/Detail3.png)
+![디테일 구조1]('./image/Detail3.png')
 
-![디테일 구조2]('./image/Detail1.png)
+![디테일 구조2]('./image/Detail1.png')
 
-![디테일 구조2]('./image/Detail2.png)
+![디테일 구조2]('./image/Detail2.png')
 
 # 팀 구성
 
